@@ -1,0 +1,28 @@
+.img1 {
+    background-color: #5FA4A3;
+}
+
+.img2 {
+    background-color: #E43E49;
+}
+
+.img3 {
+    background-color: #DCC723;
+}
+
+body {
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 0.2em
+}
+
+hr {
+    border-top: 10px solid
+}
+
+.textRed {
+    color: #DD414E
+}
+
+.textBlue {
+    color: #6A9B9A;
+}
